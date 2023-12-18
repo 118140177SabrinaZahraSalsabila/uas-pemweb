@@ -1,0 +1,88 @@
+/*
+  Nama        : Sabrina Zahra Salsabila
+  NIM         : 118140177
+  Kelas       : RC
+  Link GitHub : https://github.com/118140177SabrinaZahraSalsabila/uas-pemweb
+  Web Hosting : https://118140177uaspemweb.000webhostapp.com/
+*/
+
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F7D9C4;
+  }
+  
+  .hdr {
+      margin: 20px auto;
+      justify-content: center;
+      width: 90%;
+      background-color: #C9E4DE;
+      padding: 20px;
+      border-radius: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #FFADAD;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"],
+  select,
+  button {
+    padding: 10px;
+    margin-bottom: 15px;
+    width: 98%;
+    border-radius: 10px;
+    border: 1px solid #FFADAD;
+    font-size: 16px;
+  }
+  
+  button {
+    background-color: #FFADAD;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    background-color: #DEDAF4;
+    font-weight: bolder;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  table th,
+  table td {
+    border: 1px solid #FFADAD;
+    background-color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  table th {
+    background-color: #F2C6DE;
+  }
+  
+  .message {
+    background-color: #DBCDF0;
+    color: #FFFFFF;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    display: none;
+  }
+  
+  p {
+    color: #000000;
+  }

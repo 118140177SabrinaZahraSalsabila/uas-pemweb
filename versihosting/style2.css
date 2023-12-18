@@ -1,0 +1,59 @@
+/*
+  Nama        : Sabrina Zahra Salsabila
+  NIM         : 118140177
+  Kelas       : RC
+  Link GitHub : https://github.com/118140177SabrinaZahraSalsabila/uas-pemweb
+  Web Hosting : https://118140177uaspemweb.000webhostapp.com/
+*/
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F7D9C4;
+}
+
+.hdr {
+    margin: 20px auto;
+    justify-content: center;
+    width: 90%;
+    background-color: #C9E4DE;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #FFADAD;
+}
+
+form {
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+input[type="text"],
+button {
+    padding: 10px;
+    margin-bottom: 15px;
+    width: calc(100% - 22px);
+    border-radius: 10px;
+    border: 1px solid #FFADAD;
+    font-size: 16px;
+}
+
+button {
+    background-color: #FFADAD;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #DEDAF4;
+    font-weight: bolder;
+}
